@@ -1,4 +1,4 @@
-# Hi, i'm Thiagosales
+# 👋🏽 Hi, i'm Thiagosales
 
 #### Frontend & Languages
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript&logoColor=%23F7DF1E)
