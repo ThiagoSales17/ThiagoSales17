@@ -1,5 +1,13 @@
 # 👋🏽 Hi, i'm Thiagosales
+### ☕ About me
+I'm a Full Stack Developer focused on backend engineering, software architecture, and scalable web applications. I enjoy turning ideas into real-world projects while emphasizing clean code, performance, and maintainable software.
 
+My programming journey started when I was 10 years old, after getting my first smartphone. What began as curiosity about how games and applications worked quickly became a passion for technology. Over time, I explored game development, automation, and software engineering through self-directed learning and hands-on projects.
+
+In 2025, I decided to turn that passion into my career. Since then, I've been studying software engineering, system architecture, databases, and modern web development every day, building real projects to continuously improve my skills.
+
+***
+### 🧑🏽‍💻 My Stack
 #### Frontend & Languages
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-blue?style=flat&logo=typescript&logoColor=white)
