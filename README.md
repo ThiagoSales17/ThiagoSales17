@@ -1,6 +1,6 @@
 # 👋🏽 Hi, i'm Thiagosales
 ### ☕ About me
-I'm a Full Stack Developer focused on backend engineering, software architecture, and scalable web applications. I enjoy turning ideas into real-world projects while emphasizing clean code, performance, and maintainable software.
+I'm a 🇧🇷️ Full Stack Developer focused on backend engineering, software architecture, and scalable web applications. I enjoy turning ideas into real-world projects while emphasizing clean code, performance, and maintainable software.
 
 My programming journey started when I was 10 years old, after getting my first smartphone. What began as curiosity about how games and applications worked quickly became a passion for technology. Over time, I explored game development, automation, and software engineering through self-directed learning and hands-on projects.
 
